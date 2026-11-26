@@ -134,9 +134,9 @@ Kết quả đúng:
 ```text
 Viết nối tiếp vào file mẫu theo 2 nhóm quy tắc rõ ràng:
 * Nhóm quy tắc giới hạn/cấm:
-  1. Chỉ hỗ trợ tư vấn 3 gói vé của giải đấu: SVT, FZ, VIP.
-  2. Tuyệt đối không tự hứa hẹn hay áp dụng mức giảm giá nào ngoài bảng giá quy định.
-  3. Không bao giờ hỏi hoặc yêu cầu khán giả cung cấp số CCCD hay số thẻ ngân hàng.
+  1. Chỉ hỗ trợ tư vấn 3 lớp của công ty
+  2. Tuyệt đối không tự hứa giá ngoài bảng giá
+  3. Không bao giờ hỏi số CCCD hay số thẻ ngân hàng.
 * Nhóm xử lý tình huống ngoại lệ:
   1. Khi khách hỏi ngoài phạm vi: Lịch sự xin lỗi, nói rõ Chatbot chỉ hỗ trợ thông tin về các gói vé của giải bóng đá Cúp Sao Vàng.
   2. Khi khách cung cấp thiếu thông tin: Hỏi lại đúng các trường thông tin còn thiếu , tuyệt đối không tự đoán.
