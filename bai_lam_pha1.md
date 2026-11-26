@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:** Nguyễn Tiến Duy
 - **Lớp:** CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/ngtienduy272008vn-gif/HN-KS26-CNTT1_PromptAI_H02_Pha1-Pha2**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
